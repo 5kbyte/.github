@@ -1,18 +1,3 @@
-<table align="right">
- 	<tr>
-		<td>
-			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README.md">:us: English</a>
-		</td>
-	</tr>
- 	<tr>
-		<td>
-			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README-BR.md">:brazil: Português</a>
-		</td>
-	</tr>
-</table>
-
-##
-
 <header> 
 	<div>
 		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=55&duration=3000&pause=700&color=fff&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá%2C+Dev_;Seja-Vindo(a)+%3A%29_;Nós+somos+a+5kbyte+👾🕹️_" alt="Typing SVG"/>
