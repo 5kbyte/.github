@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"> Ei! Comece por aqui
 Somos uma dev house formada por 5 engenheiros universitários de uma universidade americana, apaixonados por tecnologia e inovação.
-Desenvolvemos projetos web com foco em qualidade, design e performance.
+Desenvolvemos projetos com foco em qualidade, design e performance.
 
 ## 🚀 O que podemos lhe oferecer?
 - Desenvolvimento Web (React,...)
